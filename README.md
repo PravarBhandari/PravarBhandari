@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PravarBhandari
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning recommender Systems and Data Mining
+- 🌱 I’m currently learning Recommender Systems and Data Mining
 - 💞️ I’m looking to collaborate on any projects involving Machine Learning or Data Infrastructure
 - 📫 email: pravar.bhandari@gmail.com
 
